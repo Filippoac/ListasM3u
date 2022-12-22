@@ -3,5 +3,5 @@
 #EXTM3U url-tvg0"https://raw.githubusercontent.com/dracohe/COLOR/master/guide_IPTV_COLOR.xm"
 
 
-#EXTINF:tvg-name="Win Sports" tv-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png" group-title="DEPORTES", Win Sports
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33124.ts
+#EXTINF:tvg-name="ARG | ESPN" tv-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES", Espn Argentina
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/696.ts
